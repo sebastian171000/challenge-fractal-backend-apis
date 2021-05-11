@@ -1,8 +1,0 @@
-{
-  "env": {
-    "DB_USER": "sebastian",
-    "DB_PASSWORD": "H9Tzqhf20unfJWCW",
-    "DB_NAME": "challengeFractal",
-    "ITEMS_PER_PAGE": 10
-  }
-}
