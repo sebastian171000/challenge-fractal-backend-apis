@@ -1,0 +1,21 @@
+{
+  "name": "challengefractal",
+  "version": "1.0.0",
+  "description": "Challenge para puesto de practicante con la empresa Fractal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Sebastian Manuel Pajes Leon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "generate-random-data": "^0.0.3",
+    "mongoose": "^5.12.7",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}
